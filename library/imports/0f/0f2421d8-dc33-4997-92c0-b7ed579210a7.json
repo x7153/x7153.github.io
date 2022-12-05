@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "voImg(0)",
+    "texture": "d0f44c65-0d62-448b-81ad-27339f1be4f4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      4032,
+      3024
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      4032,
+      3024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

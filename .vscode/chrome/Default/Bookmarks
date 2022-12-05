@@ -1,0 +1,82 @@
+{
+   "checksum": "71bf7c81625ee8263d9175af7f5a1462",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13314689725588114",
+            "guid": "fc179699-fac7-42cf-924f-96af16105fc9",
+            "id": "5",
+            "name": "百度一下",
+            "type": "url",
+            "url": "http://shscj.c3ja.com/"
+         }, {
+            "date_added": "13314689725589137",
+            "guid": "231b85d7-f8c0-4218-a9c1-973b084ec02a",
+            "id": "6",
+            "name": "京东",
+            "type": "url",
+            "url": "http://shjd.c3ja.com/"
+         }, {
+            "date_added": "13314689725589456",
+            "guid": "78032496-e276-4b32-ac4f-250b4a62660d",
+            "id": "7",
+            "name": "天猫精选",
+            "type": "url",
+            "url": "https://s.click.taobao.com/t?union_lens=lensId%3AOPT%401605144471%400b1a25db_b93b_175ba10e6ef_8d37%4001%3BeventPageId%3A1586426152452&e=m%3D2%26s%3D47pB5ZkYrhscQipKwQzePCperVdZeJviU%2F9%2F0taeK29yINtkUhsv0Jfl8Q%2F%2FiEk%2F0yZ75MLd%2B9tRyOWJ4tZzho6go4ul7F9XQrDXF8tczi%2F4ohX5VD30eSLu05rNB1ZLogfc9UhHI0lKaJluSZBCVo5N7u7NTPnpvgfyVVUAbkzCbAGjvJeFYhvzeiceWLrTM7kxpdONUALjocXlOzwDHya7uSH9oFVFXaMPXfzA%2Fl0%3D"
+         }, {
+            "date_added": "13314689725589907",
+            "guid": "d56f7309-ca04-4ccd-8340-e6f0ef13e482",
+            "id": "8",
+            "name": "爱淘宝",
+            "type": "url",
+            "url": "https://ai.taobao.com/?pid=mm_585010036_1787800158_110737550130&union_lens=lensId%3APUB%401596545479%400bba8ed9_0dc6_173b986b275_03ee%4001"
+         }, {
+            "date_added": "13314689725590258",
+            "guid": "a81ead22-452d-4676-a7e6-202b97e2c6b3",
+            "id": "9",
+            "name": "抖音",
+            "type": "url",
+            "url": "http://1douyin.cv5c.com/"
+         }, {
+            "date_added": "13314689725590619",
+            "guid": "4533817e-22a6-41dc-9473-f86ec382f5a2",
+            "id": "10",
+            "name": "免费PDF转word",
+            "type": "url",
+            "url": "chrome-extension://ibllepbpahcoppkjjllbabhnigcbffpi/"
+         }, {
+            "date_added": "13314689725590968",
+            "guid": "b10ad034-9494-4903-9276-fa15ca8ad587",
+            "id": "11",
+            "name": "糖果办公",
+            "type": "url",
+            "url": "http://tgbg.c3ja.com/"
+         } ],
+         "date_added": "13314689723494030",
+         "date_modified": "13314689725590968",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13314689723494034",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13314689723494036",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
